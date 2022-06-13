@@ -1,2 +1,2 @@
 # geneCRISpy
-Finding the Cure through using Python for R Statistical Programming
+Finding a cure using python libraries and dependencies.
